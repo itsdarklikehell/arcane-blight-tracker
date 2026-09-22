@@ -6,6 +6,12 @@
 
 A simple, embedable, tracker for the exploration of Ythryn in "Icewind Dale: Rime of the Frostmaiden".
 
+## Project Visualization
+
+[![Gource Video](https://img.shields.io/badge/View-Gource-Video-brightgreen)](./gource/arcane-blight-tracker-gource.mp4)
+
+[ ![Gource](./gource/arcane-blight-tracker-gource.png) ](./gource/arcane-blight-tracker-gource.mp4)
+
 ## Contributing
 
 1. Fork it!

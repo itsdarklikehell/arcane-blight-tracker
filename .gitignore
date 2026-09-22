@@ -196,3 +196,5 @@ $RECYCLE.BIN/
 
 # End of https://www.gitignore.io/api/osx,node,code,linux,grunt,macos,dropbox,windows
 gource.mp4
+# Gource artifacts
+gource/ppm.ppm
