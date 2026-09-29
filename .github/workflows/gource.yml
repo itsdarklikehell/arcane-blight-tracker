@@ -5,7 +5,7 @@ on:
     branches:
       - main
       - master
-
+  workflow_dispatch:
 jobs:
   gource:
     runs-on: ubuntu-latest
