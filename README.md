@@ -38,3 +38,11 @@ available, see the [tags on this repository](https://github.com/Nereare/arcane-b
 ## License
 
 This project is available under the [Do What The F*ck You Want To Public License](http://www.wtfpl.net/).
+
+## Gource Visualization
+
+De ontwikkelhistorie van dit project in een film:
+
+<video src="https://raw.githubusercontent.com/itsdarklikehell/arcane-blight-tracker/master/gource/arcane-blight-tracker-gource.mp4" controls width="100%"></video>
+
+*De video wordt automatisch gegenereerd door de [Gource workflow](.github/workflows/gource.yml) bij elke push — rendered via [nbprojekt/gource-action@v1.3.0](https://github.com/marketplace/actions/gource-action) in 1080p. Het artifact is 30 dagen beschikbaar via Actions.*
