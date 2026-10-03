@@ -1,5 +1,11 @@
 # Arcane Blight Tracker
 
+
+[![CI](https://github.com/itsdarklikehell/arcane-blight-tracker/actions/workflows/ci.yml/badge.svg)](https://github.com/itsdarklikehell/arcane-blight-tracker/actions/workflows/ci.yml)
+[![License](https://img.shields.io/github/license/itsdarklikehell/arcane-blight-tracker)](LICENSE)
+[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](CODE_OF_CONDUCT.md)
+
+
 [![GitHub package.json version](https://img.shields.io/github/package-json/v/Nereare/arcane-blight-tracker)](https://github.com/Nereare/arcane-blight-tracker)
 [![License](https://img.shields.io/github/license/Nereare/arcane-blight-tracker.svg)](LICENSE.md)
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](CODE-OF-CONDUCT.md)
