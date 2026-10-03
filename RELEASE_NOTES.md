@@ -1,7 +1,8 @@
 # Release Notes
 
-## 2026-10-02
+## 2026-10-03
 
+* docs: update RELEASE_NOTES.md (9e423c2)
 * chore: add GitHub templates and workflows (c56bad7)
 * docs: add Gource visualization embed to README (e21e88a)
 * fix: add workflow_dispatch trigger to gource.yml (0d1ba98)
